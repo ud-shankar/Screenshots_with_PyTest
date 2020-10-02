@@ -1,7 +1,7 @@
 ##
 # **Take screenshot using PyTest framework**
 
-The Test Automation Framework is created for automating all the Sanity, Smoke and Regression test cases in SurveySparrow. In the future, the entire testing can be completed in Automation by taking advantage of CI-CD.
+The Test Automation Framework is created for automating all the Sanity, Smoke and Regression test cases.
 
 ### Scripting Language
 

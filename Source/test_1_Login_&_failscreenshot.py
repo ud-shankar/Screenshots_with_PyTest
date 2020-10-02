@@ -4,10 +4,10 @@ from pytest_bdd import scenario, given, when, then
 from Pages.Locators import signin, homepage
 
 
-# @pytest.mark.practice          # Used to run in the terminal using command pytest -m login
-# @scenario('../Features/Automation_practice.feature', 'User is trying to Login using the username and password textbox')
-# def test_login_page():
-#     pass
+@pytest.mark.practice          # Used to run in the terminal using command pytest -m login
+@scenario('../Features/Automation_practice.feature', 'User is trying to Login using the username and password textbox')
+def test_login_page():
+    pass
 
 
 @pytest.mark.practice          # Used to run in the terminal using command pytest -m login

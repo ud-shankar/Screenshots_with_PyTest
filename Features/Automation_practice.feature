@@ -1,4 +1,4 @@
-Feature: Login
+Feature: Automation Practice - Take screenshots
 Different channels are provided for user to login/sign-up
 
     Scenario: User is trying to Login using the correct username and password textbox

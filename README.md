@@ -1,7 +1,7 @@
 ##
 # **Take screenshot using PyTest framework**
 
-The Test Automation Framework is created for automating all the Sanity, Smoke and Regression test cases.
+The Test Automation Framework is created for automating all the Sanity, Smoke and Regression test cases. The screenshot function in python is used to take screenshots when ever a particular test case fails. This screenshot taken can further be added to the final report generated.
 
 ### Scripting Language
 
@@ -31,3 +31,4 @@ The following steps briefly describe how a new test case can be added to the fra
 3. Add the test cases scripts in the corresponding file in the Source folder. Do create a new script file if required. The steps and classes which are already implemented may be reused to reduce duplicate scripting.
 
 Whenever there are repeated scripts to be used across multiple files, the code is expected to be added to the corresponding helper class discussed above.
+
